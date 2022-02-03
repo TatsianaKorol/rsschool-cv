@@ -1,7 +1,8 @@
 # Tatyana Korol
 ![2021-02-18 18-49-35](https://user-images.githubusercontent.com/98449196/152357298-5088ea31-03f1-49c0-a8e5-3736e701083c.JPG)
  
- ## Contacts
+## Contacts 
+
 * *Location: Minsk, Belarus*
 * *Phone: +375 44 724-11-60*
 * *Email: korol38415@gmail.com*
